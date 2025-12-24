@@ -1,3 +1,8 @@
+# Reading List:
+Python_Datascience.pdf - 5. Machine Learning  
+Fluent_Python_(2022).pdf
+
+
 # 📚 Python Books Library 🐍
 
 Welcome to the Python Books Library! 📚 Here, we've curated an extraordinary collection of Python books that cater to all levels of expertise and cover a diverse range of topics. Whether you're a curious beginner or a seasoned developer, you're sure to find books that ignite your Python passion! 🔥
