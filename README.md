@@ -2,6 +2,9 @@
 Python_Datascience.pdf - 5. Machine Learning  
 Fluent_Python_(2022).pdf
 
+### Opinion:
+Automate the boring stuff with python - is bad because: too beginner friendly, bad practices especially in the task scheduling and webscraping chapters  
+
 
 # 📚 Python Books Library 🐍
 
