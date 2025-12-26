@@ -4,6 +4,7 @@ Fluent_Python_(2022).pdf
 
 ### Opinion:
 Automate the boring stuff with python - is bad because: too beginner friendly, bad practices especially in the task scheduling and webscraping chapters  
+Data Science Fundamentals for Python and MongoDB - ok, just simple code examples  
 
 
 # 📚 Python Books Library 🐍
